@@ -1,3 +1,7 @@
+# locations.py
+# Author: Justin Crawford
+# Student ID: 000918681
+# Date: 5/17/2020
 
 
 class Location:
